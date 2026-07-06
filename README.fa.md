@@ -3,7 +3,7 @@
 # 📡 Abdal PacketView - اپلیکیشن ضبط پکت، تحلیل ترافیک شبکه اندروید و خروجی PCAPNG
 
 
-<p align="center">
+<p >
   <a href="README.md">🇺🇸 English</a> |
   <a href="README.fa.md">🇮🇷 فارسی</a>
 </p>
