@@ -1,3 +1,6 @@
+# 📡 Abdal PacketView - Android Packet Capture, Network Traffic Analyzer and PCAPNG Export Tool
+
+
 <p align="center">
   <a href="README.md">🇺🇸 English</a> |
   <a href="README.fa.md">🇮🇷 فارسی</a>
@@ -7,7 +10,6 @@
   <img src="shot.jpg" alt="Project Screenshot" width="800">
 </p>
 
-# 📡 Abdal PacketView - Android Packet Capture, Network Traffic Analyzer and PCAPNG Export Tool
 
 > Capture, inspect and export Android network packets directly on-device — no root, no external server and no desktop proxy required.
 
