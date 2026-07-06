@@ -1,7 +1,7 @@
 # 📡 Abdal PacketView - Android Packet Capture, Network Traffic Analyzer and PCAPNG Export Tool
 
 
-<p align="center">
+<p >
   <a href="README.md">🇺🇸 English</a> |
   <a href="README.fa.md">🇮🇷 فارسی</a>
 </p>
